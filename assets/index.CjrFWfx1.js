@@ -1,0 +1,1 @@
+import{Y as t,X as o}from"./index-D4mwo3FJ.js";function s(s){var e;const{context:n,selector:a="#t-toast"}=s,c=t(s,["context","selector"]),i=o(n,a);i&&i.show(Object.assign(Object.assign({},c),{duration:null!==(e=c.duration)&&void 0!==e?e:2e3}))}export{s as T};
