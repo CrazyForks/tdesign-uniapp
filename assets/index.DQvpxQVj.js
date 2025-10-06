@@ -1,1 +1,0 @@
-import{a2 as t,a1 as o}from"./index-CBYUOdbJ.js";function s(s){var a;const{context:e,selector:n="#t-toast"}=s,c=t(s,["context","selector"]),i=o(e,n);i&&i.show(Object.assign(Object.assign({},c),{duration:null!==(a=c.duration)&&void 0!==a?a:2e3}))}export{s as T};
