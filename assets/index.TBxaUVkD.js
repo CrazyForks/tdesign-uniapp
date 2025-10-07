@@ -1,0 +1,1 @@
+import{a2 as t}from"./index-Bmcp4rLD.js";function o(o){const{context:n,selector:s="#t-toast",...e}=o,a=t(n,s);a&&a.show({...e,duration:e.duration??2e3})}function n(o={}){const{context:n,selector:s="#t-toast"}=o,e=t(n,s);e&&e.hide()}export{o as T,n as h};
