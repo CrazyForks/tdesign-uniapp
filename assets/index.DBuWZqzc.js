@@ -1,0 +1,1 @@
+import{a3 as t,a2 as o}from"./index-DRTpBbb5.js";function s(s){var a;const{context:e,selector:n="#t-toast"}=s,c=t(s,["context","selector"]),i=o(e,n);i&&i.show(Object.assign(Object.assign({},c),{duration:null!==(a=c.duration)&&void 0!==a?a:2e3}))}export{s as T};
