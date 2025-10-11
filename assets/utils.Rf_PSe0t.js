@@ -1,0 +1,1 @@
+import{V as r}from"./index--qz09JOT.js";function t({allowInputOverMax:t,maxcharacter:a,maxlength:e,dataValue:n,rawValue:c,count:u}){if(t)return-1;if(!a||a<0)return e;if(!n)return a;const{length:l}=r("maxcharacter",c,1/0);if(l>=a)return n.length;const{length:h}=r("maxcharacter",c,t?1/0:a);return a-((u??h)-n.length)}export{t as g};
