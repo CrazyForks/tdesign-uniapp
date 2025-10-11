@@ -1,0 +1,1 @@
+import{U as r}from"./index-BknQ9Eec.js";function t({allowInputOverMax:t,maxcharacter:a,maxlength:e,dataValue:n,rawValue:u,count:l}){if(t)return-1;if(!a||a<0)return e;if(!n)return a;const{length:c}=r("maxcharacter",u,1/0);if(c>=a)return n.length;return a-(l-n.length)}export{t as g};
